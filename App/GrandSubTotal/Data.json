@@ -1,0 +1,152 @@
+[
+  {
+    "Brand": "Honda",
+    "Model": "Civic",
+    "Quarter": 1,
+    "Sales": 10000
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Brio",
+    "Quarter": 1,
+    "Sales": 770
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Accord",
+    "Quarter": 1,
+    "Sales": 2500
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Altis",
+    "Quarter": 1,
+    "Sales": 11000
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Vios",
+    "Quarter": 1,
+    "Sales": 520
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "Quarter": 1,
+    "Sales": 5100
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "Outback",
+    "Quarter": 1,
+    "Sales": 700
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "WRX",
+    "Quarter": 1,
+    "Sales": 700
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "Impreza",
+    "Quarter": 1,
+    "Sales": 1300
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Pajero",
+    "Quarter": 1,
+    "Sales": 500
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Evolution",
+    "Quarter": 1,
+    "Sales": 35
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Outlander",
+    "Quarter": 1,
+    "Sales": 2200
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Civic",
+    "Quarter": 2,
+    "Sales": 2800
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Brio",
+    "Quarter": 2,
+    "Sales": 700
+  },
+  {
+    "Brand": "Honda",
+    "Model": "Accord",
+    "Quarter": 2,
+    "Sales": 4100
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Altis",
+    "Quarter": 2,
+    "Sales": 5500
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Vios",
+    "Quarter": 2,
+    "Sales": 1520
+  },
+  {
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "Quarter": 2,
+    "Sales": 2100
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "Outback",
+    "Quarter": 2,
+    "Sales": 3500
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "WRX",
+    "Quarter": 2,
+    "Sales": 1000
+  },
+  {
+    "Brand": "Subaru",
+    "Model": "Impreza",
+    "Quarter": 2,
+    "Sales": 780
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Pajero",
+    "Quarter": 2,
+    "Sales": 1250
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Evolution",
+    "Quarter": 2,
+    "Sales": 41
+  },
+  {
+    "Brand": "Mitsubishi",
+    "Model": "Outlander",
+    "Quarter": 2,
+    "Sales": 120
+  },
+    {
+    "Brand": "Mitsubishi",
+    "Model": "Outlander",
+    "Quarter": 3,
+    "Sales": 430
+  }
+]
