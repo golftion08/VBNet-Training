@@ -143,10 +143,70 @@
     "Quarter": 2,
     "Sales": 120
   },
-    {
+  {
     "Brand": "Mitsubishi",
     "Model": "Outlander",
     "Quarter": 3,
     "Sales": 430
+  },
+  {
+    "Brand": "Nissan",
+    "Model": "Almera",
+    "Quarter": 1,
+    "Sales": 999
+  },
+  {
+    "Brand": "Volkswagen",
+    "Model": "Golf",
+    "Quarter": 1,
+    "Sales": 500
+  },
+  {
+    "Brand": "Volkswagen",
+    "Model": "Golf",
+    "Quarter": 2,
+    "Sales": 400
+  },
+  {
+    "Brand": "BMW",
+    "Model": "3 Series",
+    "Quarter": 1,
+    "Sales": 300
+  },
+  {
+    "Brand": "BMW",
+    "Model": "3 Series",
+    "Quarter": 2,
+    "Sales": 150
+  },
+  {
+    "Brand": "BMW",
+    "Model": "3 Series",
+    "Quarter": 3,
+    "Sales": 320
+  },
+  {
+    "Brand": "BMW",
+    "Model": "X5",
+    "Quarter": 1,
+    "Sales": 200
+  },
+  {
+    "Brand": "Mercedes-Benz",
+    "Model": "C-Class",
+    "Quarter": 1,
+    "Sales": 600
+  },
+  {
+    "Brand": "Mercedes-Benz",
+    "Model": "C-Class",
+    "Quarter": 2,
+    "Sales": 100
+  },
+  {
+    "Brand": "Mercedes-Benz",
+    "Model": "GLC",
+    "Quarter": 1,
+    "Sales": 350
   }
 ]
